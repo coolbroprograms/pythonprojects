@@ -8,7 +8,7 @@ int main(){
     // accept range
     int l,r;
     int count=0, rem, num, index=0;
-    array<int, 4> arr;
+    array<int, 19> arr;
 
     cout<<"Enter the range: ";
     cin>>l>>r;
